@@ -21,7 +21,7 @@ export const avaliar = createServerFn({ method: "POST" })
   .inputValidator((d: unknown) => z.object({ situacao: z.string().min(3).max(2000) }).parse(d))
   .handler(async ({ data }) => {
     const { KNOWLEDGE } = await import("./knowledge");
-    const key = process.env.LOVABLE_API_KEY;
+    const key = process.env["LOVABLE_API_KEY"];
     if (!key) return { ok: false as const, error: "Chave de IA não configurada." };
     const res = await fetch("https://ai.gateway.lovable.dev/v1/responses", {
       method: "POST",
