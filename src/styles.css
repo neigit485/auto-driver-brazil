@@ -142,3 +142,33 @@
     color: var(--color-foreground);
   }
 }
+
+:root {
+  --background: oklch(0.975 0.01 95);
+  --foreground: oklch(0.22 0.03 250);
+  --primary: oklch(0.45 0.12 155);
+  --primary-foreground: oklch(0.99 0 0);
+  --muted-foreground: oklch(0.5 0.03 250);
+  --card: oklch(1 0 0);
+  --border: oklch(0.9 0.015 95);
+  --signal: oklch(0.82 0.17 85);
+  --danger: oklch(0.58 0.2 27);
+}
+@layer components {
+  .eyebrow { @apply text-xs font-semibold uppercase tracking-[0.2em] text-primary; }
+  .titulo { @apply text-4xl font-black tracking-tight mt-1; }
+  .subtitulo { @apply text-xl font-bold; }
+  .painel { @apply rounded-2xl border bg-card p-5 shadow-sm; }
+  .seg { @apply inline-flex rounded-full border p-1 bg-background; }
+  .seg-on { @apply rounded-full px-4 py-1.5 text-sm font-semibold bg-primary text-primary-foreground; }
+  .seg-off { @apply rounded-full px-4 py-1.5 text-sm font-semibold text-muted-foreground; }
+  .campo { @apply w-full rounded-xl border bg-background p-3 text-base outline-none focus:ring-2 focus:ring-primary; }
+  .btn-main { @apply rounded-xl bg-primary px-5 py-2.5 font-semibold text-primary-foreground disabled:opacity-50; }
+  .btn-ghost { @apply rounded-xl border px-4 py-2 text-sm font-medium hover:bg-background disabled:opacity-40; }
+  .btn-rec { @apply rounded-xl px-4 py-2 text-sm font-semibold text-primary-foreground animate-pulse; background: var(--danger); }
+  .erro { @apply text-sm font-medium; color: var(--danger); }
+  .ficha { @apply rounded-xl border-l-4 bg-background p-4 space-y-1; border-left-color: var(--signal); }
+  .ficha-peso { @apply text-lg font-black; }
+  .ficha-texto { @apply text-sm text-muted-foreground; }
+  .ficha-linha3 { @apply font-semibold; }
+}
