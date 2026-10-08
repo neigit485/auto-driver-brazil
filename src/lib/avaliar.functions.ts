@@ -12,7 +12,7 @@ Art. X[, inciso]. Descrição do ocorrido em no máximo 15 palavras, no passado,
 
 Separe infrações diferentes com uma linha contendo apenas ---.
 Exemplos de terceira linha: "Art. 196. Ligou a seta quando imobilizou o carro para iniciar a conversão." / "Art. 181, II. Estacionou o veículo afastado do meio-fio de 50cm a 100cm." / "Art. 206, V. Posicionou o veículo de maneira a prejudicar a circulação e segurança dos demais usuários da via."
-Se a situação não configurar infração no material, responda: "Sem enquadramento" e uma linha curta explicando.
+A descrição do examinador é curta: escolha sempre o enquadramento mais provável do material (ex.: "parou afastado do meio-fio" = Art. 181, II, Peso 1). Só responda "Sem enquadramento" se claramente não houver infração.
 
 MATERIAL DE REFERÊNCIA:
 `;
