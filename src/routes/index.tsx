@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useRef, useState } from "react";
 import { useServerFn } from "@tanstack/react-start";
-import { avaliar } from "@/server/avaliar.functions";
+import { avaliar } from "@/lib/avaliar.functions";
 
 export const Route = createFileRoute("/")({
   head: () => ({
