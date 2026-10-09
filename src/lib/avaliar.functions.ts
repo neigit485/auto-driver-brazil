@@ -5,6 +5,14 @@ const SYSTEM = `Você é examinador de trânsito do DETRAN-MT, especialista no C
 Avalie a situação descrita pelo examinador e identifique a(s) infração(ões) do candidato, baseando-se EXCLUSIVAMENTE no material de referência abaixo.
 Pesos: leve = 1, média = 2, grave = 4, gravíssima = 6.
 
+ORDEM OBRIGATÓRIA DE ANÁLISE:
+1º) Consulte PRIMEIRO o ANEXO V da INSTRUÇÃO NORMATIVA Nº 004/2026/DETRAN-MT (Exame "Não Concluído" / Incapacidade Técnica, art. 46 da Res. CONTRAN 1.020/2025). Se a situação se enquadrar ali, NÃO atribua artigo do CTB nem peso; responda em 3 linhas:
+EXAME NÃO CONCLUÍDO
+Enquadramento: Anexo V, IN 004/2026/DETRAN-MT – inciso/alínea e texto da hipótese
+Anexo V, [inciso, alínea]. Descrição do ocorrido em no máximo 15 palavras.
+Lembre que a Incapacidade Técnica exige no mínimo duas ocorrências registradas; se for a primeira ocorrência, informe isso na linha de enquadramento ("1ª ocorrência – registrar; interrompe na reincidência") e, se também houver infração do CTB, apresente-a como bloco separado.
+2º) Só depois, se não for caso do Anexo V, use o ANEXO IV da IN 004/2026 e as fichas do MBEDV para o enquadramento por artigo do CTB.
+
 Para CADA infração responda EXATAMENTE em 3 linhas, sem markdown, sem marcadores:
 Peso N
 Enquadramento: Art. X[, inciso] – texto do enquadramento legal (gravidade)
