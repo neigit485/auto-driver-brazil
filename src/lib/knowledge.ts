@@ -1,4 +1,583 @@
-export const KNOWLEDGE = `## MBEDV (CONTRAN/SENATRAN) - Fichas de procedimento
+export const KNOWLEDGE = `## INSTRUÇÃO NORMATIVA Nº 004/2026/DETRAN-MT (art. 46 Res. CONTRAN 1.020/2025)
+### ANEXO V - EXAME NÃO CONCLUÍDO / INCAPACIDADE TÉCNICA (CONSULTAR PRIMEIRO)
+pedestre ou a condutores de outros veículos Infração Leve: 1 ponto Categorias aplicáveis: A, B, C, D,
+E
+10. Art. 227 Inciso II. Usar buzina prolongada e sucessivamente a qualquer pretexto
+Infração Leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+11. Art. 227 Inciso III. Usar buzina entre as vinte e duas e as seis horas.
+Infração Leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+12. Art. 227 Inciso IV. Usar buzina em locais e horários proibidos pela sinalização
+Infração Leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+13. Art. 227 Inciso V. Usar buzina em desacordo com os padrões e frequências estabelecidas pelo
+CONTRAN
+Infração leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+ANEXO V
+EXAME “NÃO CONCLUÍDO”
+Art. 1º Nos termos do art. 46 da Resolução CONTRAN nº 1.020/2025, o exame prático de direção
+veicular poderá ser interrompido pela Comissão de Exame de Direção Veicular, sendo classificado
+como “não concluído”, sem atribuição de pontuação, nas hipóteses elencadas neste anexo.
+Incapacidade Técnica
+Nas situações classiﬁcadas como Incapacidade Técnica, a conduta deverá ser reiterada,
+caracterizada por, no mínimo, duas ocorrências devidamente registradas, ainda que distintas entre
+si, não sendo necessária a repetição da mesma situação.
+SITUAÇÕES CARACTERIZADORAS DE INCAPACIDADE TÉCNICA PARA CATER
+CATEGORIAS B, C, D e E
+I - Incapacidade de compreender comandos e sinalização viária
+a) Não compreender ou não conseguir executar orientações simples e diretas do examinador;
+b) Deixar de identiﬁcar ou interpretar corretamente a sinalização vertical ou horizontal,
+comprometendo a segurança da circulação;
+c) Deixar de observar placas de regulamentação, advertência ou indicação, adotando conduta
+incompatível com a regra de circulação;
+d) Demonstrar hesitação excessiva decorrente da incapacidade de compreender a dinâmica da
+preferência de passagem;
+e) Interromper a marcha ou parar o veículo indevidamente em via preferencial por falha na leitura da
+sinalização ou no posicionamento na via, ocasionando risco aos demais usuários e prejuízo à ﬂuidez
+do tráfego.
+II - Desorientação espacial durante a condução
+a) Posicionar-se incorretamente na via de forma reiterada, sem conseguir manter alinhamento
+adequado à faixa de circulação;
+b) Deixar de observar os retrovisores antes de efetuar mudança de faixa, ainda que tenha acionado a
+sinalização indicativa de direção.
+III - Ausência de coordenação motora na condução
+a) Demonstrar falta de coordenação entre volante, pedais e câmbio;
+b) Realizar movimentos desconexos e desordenados na condução do veículo;
+c) Utilizar os pedais de forma simultânea e inadequada, sem lógica operacional;
+d) Acelerar quando deveria frear, de forma repetida, por confusão operacional.
+IV - Desconhecimento do funcionamento básico do veículo
+a) Não conseguir dar partida no veículo;
+b) Não conseguir engatar marchas, por não acionar corretamente a embreagem ou por
+desconhecimento no manuseio do câmbio;
+c) Manter o veículo em marcha inadequada por trecho signiﬁcativo, utilizando predominantemente
+marchas reduzidas (1ª ou 2ª), mantendo rotação incompatível e deixando de realizar a progressão
+correta;
+d) Dar partida com a engrenagem de tração engatada;
+e) Tentar movimentar o veículo em ponto neutro.
+V - Condução sem controle direcional
+a) Conduzir o veículo continuamente em zigue-zague;
+b) Perder a trajetória normal de circulação;
+c) Travar o volante ao finalizar conversões, provocando movimentos irregulares.
+VI - Incapacidade de manter o veículo sob controle em movimento
+a) Permitir que o veículo saia da pista, criando situação de risco;
+b) Interromper o funcionamento do motor, sem justa razão, após o início da prova;
+c) Demonstrar incapacidade de manter deslocamento contínuo e progressivo do veículo.
+VII - Descontrole em situações específicas da via
+a) Em aclive: permitir recuo do veículo por falta de controle de embreagem e aceleração, admitindo-
+se o uso adequado do freio de estacionamento ou de serviço, desde que não haja recuo ou
+descontrole;
+b) Em declive: perder o controle do veículo em razão de uso inadequado da direção ou do freio.
+VIII - Procedimentos incorretos na preparação e operação do veículo
+a) Não ajustar banco e espelhos retrovisores antes do início da marcha;
+b) Ajustar de forma inadequada os dispositivos básicos de condução, comprometendo a segurança da
+direção;
+c) Desconhecer a localização ou a forma correta de acionamento dos dispositivos essenciais para a
+operação e o controle do veículo.
+IX - Ocorrências específicas em veículos com transmissão automática
+a) Acionar o pedal de freio de forma injustificada e contínua em trecho regular de circulação;
+b) Demonstrar desconhecimento na seleção das posições da transmissão automática,
+comprometendo o início ou à continuidade da marcha;
+c) Utilizar os dois pés para dirigir, provocando acionamentos simultâneos e perda de controle;
+d) Selecionar posição incompatível com a manobra pretendida;
+e) Tentar movimentar o veículo em posição inadequada (Neutro ouParking);
+f) Não manter o pedal de freio acionado para realizar o engate inicial;
+g) Permitir deslocamento involuntário do veículo por ausência de controle do freio em parada;
+h) Acionar simultaneamente e de forma descoordenada os pedais de freio e acelerador;
+i) Acelerar excessivamente ao iniciar a marcha, demonstrando falta de controle progressivo;
+j) Utilizar de forma inadequada o freio de estacionamento (P)
+k) Mudar a posição do câmbio com o veículo em movimento, alternar deD (Drive) para R (Ré) ou de
+R para D sem parar completamente, o que pode causar danos à transmissão;
+l) Manter o veículo parado em subida apenas com o acelerador causando esforço excessivo na
+transmissão, o correto é utilizar o freio.
+SITUAÇÕES CARACTERIZADORAS DE INTERRUPÇÃO DO EXAME POR NÃO CONCLUSÃO DO
+ESTACIONAMENTO EM TEMPO RAZOÁVEL, DENTRO DA ÁREA TOTAL LIVRE DESTINADA À
+MANOBRA - CATEGORIA "B"
+Constatada qualquer das situações abaixo descritas, o exame prático deverá ser imediatamente
+classificado como “não concluído”, nos termos do MBEDV.
+Caracteriza a não conclusão do estacionamento quando o candidato:
+a) Não conseguir concluir o estacionamento do veículo dentro da área total livre destinada à
+manobra, no tempo razoável de até 3 (três) minutos;
+b) Avançar, abalroar ou transpor o balizamento que delimita a área destinada ao estacionamento do
+veículo na vaga.
+c) O veículo não estiver devidamente estacionado, alinhado e paralelo ao bordo da via respeitando o
+distanciamento regulamentar ou esteja estacionado em desacordo com as posições estabelecidas no
+CTB
+SITUAÇÕES CARACTERIZADORAS DE INCAPACIDADE TÉCNICA - CATEGORIA "A"
+Caracteriza-se a incapacidade técnica para dar continuidade segura ao exame, ensejando sua
+interrupção e o registro do resultado "Não Concluído", quando o candidato demonstrar imperícia
+reiterada no domínio dos comandos básicos da motocicleta, comprometendo a execução segura do
+percurso ou dos obstáculos obrigatórios.
+Constituem hipóteses de incapacidade técnica, entre outras:
+I - Perda do domínio direcional
+a) perder o controle da motocicleta em razão do uso inadequado do freio, da embreagem ou da
+aceleração;
+b) invadir qualquer faixa durante a realização do circuito;
+c) realizar movimentos desconexos, bruscos ou desordenados na condução da motocicleta,
+evidenciando ausência reiterada de domínio técnico.
+II - Utilização inadequada dos comandos do veículo
+a) utilizar incorretamente os equipamentos obrigatórios de comando da motocicleta;
+b) engrenar ou utilizar marchas inadequadas durante o exame, demonstrando ausência de domínio
+operacional;
+c) colocar o motor em funcionamento com a transmissão engrenada;
+d) interromper o funcionamento do motor, sem justificativa, após o início do exame.
+III - Falhas na técnica de parada e equilíbrio
+a) deixar de apoiar um dos pés no solo e manter o outro acionando o freio sempre que efetuar parada
+durante o exame, bem como no início do exame, quando aplicável;
+IV - Condutas incompatíveis com a execução segura do exame
+a) regular os espelhos retrovisores durante o percurso do exame;
+b) praticar qualquer conduta que demonstre ausência de domínio dos comandos básicos de direção,
+comprometendo a continuidade segura do exame.
+SITUAÇÕES CARACTERIZADORAS DE INTERRUPÇÃO DO EXAME POR NÃO CONCLUSÃO
+DOS OBSTÁCULOS OBRIGATÓRIOS OU DESCUMPRIMENTO DO PERCURSO - CATEGORIA
+"A"
+Constatada qualquer das situações abaixo, o exame prático deverá ser imediatamente interrompido e
+registrado com o resultado “não concluído”, por caracterizar a impossibilidade de conclusão regular
+do percurso de exame.
+Ziguezague (slalow):
+Caracteriza a não conclusão do obstáculo quando o candidato:
+a) ingressar no obstáculo pelo lado incorreto;
+b) abalroar qualquer cone que compõe o obstáculo;
+c) deixar de contornar um ou mais cones, suprimindo parte do percurso previsto.
+Curvas sequenciais com raio de 90°
+Caracteriza a não conclusão do obstáculo quando o candidato:
+a) interromper a execução do obstáculo, parando o veículo antes de sua conclusão;
+b) sair totalmente da pista demarcada com qualquer dos pneus durante a execução do obstáculo.
+Rotatória circular para manobra em “8”:
+Caracteriza a não conclusão do obstáculo quando o candidato:
+a) realizar mais de uma tentativa para concluir a manobra;
+b) deixar de executar integralmente o percurso da manobra em "8";
+c) ingressar no obstáculo pelo lado incorreto;
+Prancha de equilíbrio:
+Caracteriza a não conclusão do obstáculo quando o candidato:
+a) deixar de manter o equilíbrio sobre a prancha, saindo lateralmente durante sua execução;
+b) ingressar na prancha pela lateral, em vez do acesso previsto;
+Sonorizador:
+Caracteriza a não conclusão do obstáculo quando o candidato:
+a) deixar de transpor integralmente o sonorizador pelo trajeto previsto;
+b) desviar do obstáculo ou abandoná-lo antes de sua conclusão.
+DESCUMPRIR PERCURSO:
+Caracteriza a não conclusão do exame quando o candidato:
+a) parar o veículo em local não previsto para a realização do exame, sem justiﬁcativa decorrente de
+determinação do examinador ou de situação excepcional;
+b) sair totalmente da pista ou da faixa de circulação demarcada com qualquer dos pneus,
+abandonando o percurso estabelecido para o exame.
+c) Colocar ao menos um dos pés no solo com a motocicleta em movimento.
+SITUAÇÕES CARACTERIZADORAS DE INTERRUPÇÃO DO EXAME POR NÃO CONCLUSÃO DA
+ETAPA BALIZA - CATEGORIA "C,D e E"
+Constatada qualquer das situações abaixo descritas, o exame prático deverá ser imediatamente
+classificado como “não concluído”.
+Caracteriza a não conclusão da etapa quando o candidato:
+a) Não conseguir estacionar o veículo na área balizada;
+b) Não colocar o veículo na área balizada no tempo máximo estabelecido, 06 (seis) minutos para as
+categorias “C,D e E”
+c) Avançar sobre o balizamento demarcado quando do estacionamento do veículo na vaga;
+d) Não completar a realização de todas as etapas do exame;
+e) Sair fora da área de manobra ou área balizada, tanto no momento da alinhamento caso seja o
+candidato que realize, ou durante a realização do exame.
+SITUAÇÕES CARACTERIZADORAS DE INTERRUPÇÃO DO EXAME POR INSTABILIDADE
+EMOCIONAL OU COMPORTAMENTO INCOMPATÍVEL
+Constatada qualquer das hipóteses abaixo descritas, o exame prático deverá ser imediatamente
+classiﬁcado como “não concluído”, nos termos do art. 46, inciso II, da Resolução nº 1.020/2025 do
+Conselho Nacional de Trânsito - CONTRAN.
+I - Apresentar instabilidade emocional manifesta, caracterizada por choro persistente, tremores
+intensos, ansiedade, pânico, descontrole emocional ou comprometimento do raciocínio e da
+coordenação necessários à condução segura do veículo ;
+II - Recusar-se, deliberadamente, a dar continuidade ao exame após seu início, por exemplo,
+deixando de passar pela prancha ou por qualquer obstáculo do circuito da categoria “A”, recusando-
+### ANEXO IV - INFRAÇÕES E PESOS (DETRAN-MT)
+equilíbrio, sem tocar os pés no solo, sem sair da prancha e sem interromper a condução por falta de
+domínio do veículo.
+Sonorizador: O candidato deverá manter o controle do veículo, equilíbrio, coordenação motora e
+atenção aos estímulos sonoros.
+Cones: O obstáculo “slalow” deverá dispor de, no mínimo, 04 cones de sinalização que atendam a
+norma ABNT NBR 15071 e estejam posicionados a uma distância de 3,5m medidos do centro do
+cone. Características Altura: 75 cm; Base: 40cm por 40cm.
+ ANEXO IV
+INFRAÇÕES DE TRÂNSITO E RESPECTIVOS PESOS
+TABELA DE INFRAÇÕES DE TRÂNSITO E RESPECTIVA APLICABILIDADE NO EXAME PRÁTICO
+DE DIREÇÃO VEICULAR
+INFRAÇÕES GRAVÍSSIMAS - 6 PONTOS
+1. Art. 162 Inciso VI. Dirigir veículo sem usar lentes corretoras de visão, aparelho auxiliar de audição,
+de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação
+da licença para conduzir.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+2. Art. 170. Dirigir ameaçando os pedestres que estejam atravessando a via pública, ou os demais
+veículos.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+3. Art. 175. Utilizar-se de veículo para, em via pública, demonstrar ou exibir manobra perigosa,
+arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+4. Art. 181 Inciso V. Estacionar o veículo na pista de rolamento das estradas, das rodovias, das vias
+de trânsito rápido e das vias dotadas de acostamento.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+5. Art. 181. Inciso XX - Estacionar veículo nas vagas reservadas às pessoas com deﬁciência ou
+idosos, sem credencial que comprove tal condição;
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+6. Art. 184. Transitar com o veículo: III - na faixa ou via de trânsito exclusivo, regulamentada com
+circulação destinada aos veículos de transporte público coletivo de passageiros, salvo casos de força
+maior e com autorização do poder público competente.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+7. Art. 189. Deixar de dar passagem aos veículos precedidos de batedores, de socorro de incêndio e
+salvamento, de polícia, de operação e ﬁscalização de trânsito e às ambulâncias, quando em serviço
+de urgência e devidamente identiﬁcados por dispositivos regulamentados de alarme sonoro e
+iluminação intermitente.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+8. Art.186 Inciso II. Transitar pela contramão de direção em vias com sinalização de regulamentação
+de sentido único de circulação.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+9. Art. 191. Forçar passagem entre veículos que, transitando em sentidos opostos, estejam na
+iminência de passar um pelo outro ao realizar operação de ultrapassagem.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+10. Art. 193. Transitar com o veículo em calçadas, passeios, passarelas, ciclovias, ciclo faixas, ilhas,
+refúgios, ajardinamentos, canteiros centrais e divisores de pista de rolamento, acostamentos, marcas
+de canalização, gramados e jardins públicos. Infração Gravíssima: 6 pontos - Categorias aplicáveis:
+A, B, C, D, E
+11. Art. 200. Ultrapassar pela direita veículo de transporte coletivo ou de escolares, parado para
+embarque ou desembarque de passageiros, salvo quando houver refúgio de segurança para o
+pedestre.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+12. Art. 202 Inciso I. Ultrapassar outro veículo pelo acostamento.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+13. Art. 202 Inciso II. Ultrapassar outro veículo em interseções e passagens de nível.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+14. Art. 203 Inciso I. Ultrapassar pela contramão outro veículo nas curvas, aclives e declives, sem
+visibilidade suficiente. Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+15. Art. 203 Inciso II. Ultrapassar pela contramão outro veículo nas faixas de pedestre.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+16. Art. 203 Inciso III. Ultrapassar pela contramão outro veículo nas pontes, viadutos ou túneis.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+17. Art. 203 Inciso IV. Ultrapassar pela contramão outro veículo parado em ﬁla junto a sinais
+luminosos, porteiras, cancelas, cruzamentos ou qualquer outro impedimento à livre circulação.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+18. Art. 203 Inciso V. Ultrapassar pela contramão outro veículo onde houver marcação viária
+longitudinal de divisão de fluxos opostos do tipo linha dupla contínua ou simples contínua amarela.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+19. Art. 206 Inciso I. Executar operação de retorno em locais proibidos pela sinalização.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+20. Art. 206 Inciso II. Executar operação de retorno nas curvas, aclives, declives, pontes, viadutos e
+túneis.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+21. Art. 206 Inciso III. Executar operação de retorno passando por cima de calçada, passeio, ilhas,
+ajardinamento ou canteiros de divisões de pista de rolamento, refúgios e faixas de pedestres e nas de
+veículos não motorizados.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+22. Art. 206 Inciso IV. Executar operação de retorno nas interseções, entrando na contramão de
+direção da via transversal . Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+23. Art. 206 Inciso V. Executar operação de retorno com prejuízo da livre circulação ou da segurança,
+ainda que em locais permitidos.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+24. Art. 208. Avançar o sinal vermelho do semáforo ou o de parada obrigatória.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+25. Art. 210. Transpor, sem autorização, bloqueio viário policial.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+26. Art. 212. Deixar de parar o veículo antes de transpor linha férrea.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E .
+27. Art. 213, I. Deixar de parar o veículo sempre que a respectiva marcha for interceptada por
+agrupamento de pessoas, como préstitos, passeatas, desfiles e outros.
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+28. Art. 214. Deixar de dar preferência de passagem a pedestre e a veículo não motorizado: I - que se
+encontre na faixa a ele destinada;
+29. Art. 214. Deixar de dar preferência de passagem a pedestre e a veículo não motorizado: II - que
+não haja concluído a travessia mesmo que ocorra sinal verde para o veículo;
+30. Art. 214. Deixar de dar preferência de passagem a pedestre e a veículo não motorizado: III -
+portadores de deficiência física, crianças, idosos e gestantes:
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+31. Art. 218 Inciso III. Transitar em velocidade superior à máxima permitida para o local, medida por
+instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias,
+quando a velocidade for superior à máxima em mais de 50% (cinquenta por cento).
+Infração Gravíssima: 6 pontos - Categorias aplicáveis: A, B, C, D, E
+32. Art. 220 Inciso I. Deixar de reduzir a velocidade do veículo de forma compatível com a segurança
+do trânsito quando se aproximar de passeatas, aglomerações, cortejos, préstitos e desfiles.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+33. Art. 220 Inciso XIII. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito ao ultrapassar ciclista.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+34. Art. 220 Inciso XIV. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito nas proximidades de escolas, hospitais, estações de embarque e desembarque
+de passageiros ou onde haja intensa movimentação de pedestres.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+35. Art. 244 Inciso I. Conduzir motocicleta, motoneta e ciclomotor sem usar capacete de segurança ou
+vestuário de acordo com as normas e as especificações aprovadas pelo CONTRAN.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A
+36. Art. 244 Inciso II. Conduzir motocicleta, motoneta e ciclomotor transportando passageiro sem o
+capacete de segurança, na forma estabelecida no inciso anterior, ou fora do assento suplementar
+colocado atrás do condutor ou em carro lateral.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A
+37. Art. 244 Inciso III. Conduzir motocicleta, motoneta e ciclomotor fazendo malabarismo ou
+equilibrando-se apenas em uma roda.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A
+38. Art. 244 Inciso V. Conduzir motocicleta, motoneta e ciclomotor transportando criança menor de
+sete anos ou que não tenha, nas circunstâncias, condições de cuidar de sua própria segurança.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A
+39. Art. 253. Bloquear a via com veículo.
+Infração Gravíssima: 6 pontos Categorias aplicáveis: A, B, C, D, E
+INFRAÇÕES GRAVES - 4 PONTOS
+1. Art. 167. Deixar o condutor ou passageiro de usar o cinto de segurança, conforme previsto no art.
+65 do CTB.
+Infração Grave: 4 pontos - Categorias aplicáveis: B, C, D, E
+2. Art. 177. Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado
+pela autoridade e seus agentes.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+3. Art. 181 Inciso III. Estacionar o veículo afastado da guia da calçada (meio-fio) a mais de um metro.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+4. Art. 181 Inciso VIII. Estacionar o veículo no passeio ou sobre faixa destinada a pedestre, sobre
+ciclovia ou ciclo faixa, bem como nas ilhas, refúgios, ao lado ou sobre canteiros centrais, divisores de
+pista de rolamento, marcas de canalização, gramados ou jardim público.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+5. Art. 181 Inciso XI. Estacionar o veículo ao lado de outro veículo em fila dupla.
+Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+6. Art. 181 Inciso XII. Estacionar o veículo na área de cruzamento de vias, prejudicando a circulação
+de veículos e pedestres. Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+7. Art. 181 Inciso XIV. Estacionar o veículo nos viadutos, pontes e túneis.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+8. Art. 181 Inciso XVI. Estacionar o veículo em aclive ou declive, não estando devidamente freado e
+sem calço de segurança, quando se tratar de veículo com peso bruto total superior a três mil e
+quinhentos quilogramas.
+Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+9. Art. 181.Inciso XVII.Estacionar veículo em desacordo com as condições regulamentadas
+especiﬁcamente pela sinalização (placa - estacionamento regulamentado); Infração Grave: 4 pontos -
+Categorias aplicáveis: A, B, C, D, E
+10. Art. 181 Inciso XIX. Estacionar o veículo em locais e horários de estacionamento e parada
+proibidos pela sinalização (placa - Proibido Parar e Estacionar).
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+11. Art. 182 Inciso V. Parar o veículo na pista de rolamento das estradas, das rodovias, das vias de
+trânsito rápido e das demais vias dotadas de acostamento. Infração Grave: 4 pontos Categorias
+aplicáveis: A, B, C, D, E
+12. Art. 184 Inciso II. Transitar com o veículo na faixa ou pista da esquerda regulamentada como de
+circulação exclusiva para determinado tipo de veículo. Infração Grave: 4 pontos Categorias aplicáveis:
+A, B, C, D, E
+13. Art. 186 Inciso I. Transitar pela contramão de direção em vias com duplo sentido de circulação,
+exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do
+veículo que transitar em sentido contrário.
+Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+14. Art. 190. Seguir veículo em serviço de urgência, estando este com prioridade de passagem
+devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação intermitente.
+Infração Grave: 4 pontos Categorias aplicáveis,B, C, D, E
+15. Art. 192. Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os
+demais, bem como em relação ao bordo da pista, considerando-se, no momento, a velocidade, as
+condições climáticas do local da circulação e do veículo. Infração Grave: 4 pontos Categorias
+aplicáveis: A, B, C, D, E
+16. Art. 194. Transitar em marcha à ré, salvo na distância necessária a pequenas manobras e de
+forma a não causar riscos à segurança.Infração Grave: 4 pontos Categorias aplicáveis:B, C, D, E17.
+Art. 195. Desobedecer às ordens emanadas da autoridade competente de trânsito ou de seus
+agentes.
+Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+18. Art. 196. Deixar de indicar com antecedência, mediante gesto regulamentar de braço ou luz
+indicadora de direção do veículo, o início da marcha, a realização da manobra de parar o veículo, a
+mudança de direção ou de faixa de circulação. Infração Grave: 4 pontos Categorias aplicáveis: A, B,
+C, D, E
+19. Art. 204. Deixar de parar o veículo no acostamento à direita, para aguardar a oportunidade de
+cruzar a pista ou entrar à esquerda, onde não houver local apropriado para operação de retorno;
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+20. Art. 207. Executar operação de conversão à direita ou à esquerda em locais proibidos pela
+sinalização.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+21. Art. 211. Ultrapassar veículos em ﬁla, parados devido a semáforo, cancela, bloqueio viário parcial
+ou qualquer outro obstáculo, exceto veículos não motorizados.Infração Grave: 4 pontos Categorias
+aplicáveis: A, B, C, D, E
+22. Art. 213, II. Deixar de parar o veículo sempre que a respectiva marcha for interceptada por
+agrupamento de veículos, como cortejos, formações militares e outrosInfração Grave: 4 pontos
+Categorias aplicáveis: A, B, C, D, E
+23. Art. 214. Deixar de dar preferência de passagem a pedestre e a veículo não motorizado: IV -
+quando houver iniciado a travessia mesmo que não haja sinalização a ele destinada. V - que esteja
+atravessando a via transversal para onde se dirige o veículo. Infração Grave: 4 pontos Categorias
+aplicáveis: A, B, C, D, E.
+24. Art. 215 Inciso I. Deixar de dar preferência de passagem em interseção não sinalizada a veículo:
+a) que estiver circulando por rodovia ou rotatória; b) ou a veículo que vier da direita Infração Grave: 4
+pontos Categorias aplicáveis: A, B, C, D, E.
+25. Art. 215 Inciso II. Deixar de dar preferência de passagem nas interseções com sinalização de
+regulamentação de Dê a Preferência. Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+26. Art. 218 Inciso II. - quando a velocidade for superior à máxima em mais de 20% (vinte por cento)
+até 50% (cinquenta por cento). Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+27. Art. 220 Inciso II. Deixar de reduzir a velocidade do veículo de forma compatível com a segurança
+do trânsito.II - nos locais onde o trânsito esteja sendo controlado pelo agente da autoridade de
+trânsito, mediante sinais sonoros ou gestos; Infração Grave: 4 pontos Categorias aplicáveis: A, B, C,
+D, E
+28. Art. 220 Inciso III. Deixar de reduzir a velocidade do veículo de forma compatível com a segurança
+do trânsito ao aproximar-se da guia da calçada (meio-fio) ou acostamento.
+Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+29. Art. 220 Inciso IV. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito ao aproximar-se de ou passar por interseção não sinalizada.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+30. Art. 220 Inciso V. Deixar de reduzir a velocidade do veículo de forma compatível com a segurança
+do trânsito nas vias rurais cuja faixa de domínio não esteja cercada.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+31. Art. 220 Inciso VI. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito nos trechos em curva de pequeno raio.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+32. Art. 220 Inciso VII. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito ao aproximar-se de locais sinalizados com advertência de obras ou
+trabalhadores na pista.
+Infração Grave: 4 pontos - Categorias aplicáveis: A, B, C, D, E
+33. Art. 220 Inciso VIII. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito sob chuva, neblina, cerração ou ventos fortes. Infração Grave: 4 pontos -
+Categorias aplicáveis: A, B, C, D, E
+34. Art. 220 Inciso IX. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito quando houver má visibilidade. Infração Grave: 4 pontos Categorias aplicáveis:
+A, B, C, D, E
+35. Art. 220 Inciso X. Deixar de reduzir a velocidade do veículo de forma compatível com a segurança
+do trânsito quando o pavimento se apresentar escorregadio, defeituoso ou avariado.
+Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+36. Art. 220 Inciso XI. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito à aproximação de animais na pista. Infração Grave: 4 pontos Categorias
+aplicáveis: A, B, C, D, E
+37. Art. 220 Inciso XII. Deixar de reduzir a velocidade do veículo de forma compatível com a
+segurança do trânsito em declive. Infração Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+38. Art. 230 Inciso XIX. Conduzir o veículo sem acionar o limpador de para-brisa sob chuva. Infração
+Grave: 4 pontos Categorias aplicáveis: A, B, C, D, E
+39. Art. 244 Inciso VII. Conduzir motocicleta, motoneta e ciclomotor sem segurar o guidom com
+ambas as mãos, salvo eventualmente para indicação de manobras. Infração Grave: 4 pontos
+Categorias aplicáveis: A
+INFRAÇÕES MÉDIAS - 2 PONTOS
+1. Art. 171. Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+2. Art. 172. Atirar do veículo ou abandonar na via objetos ou substâncias.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+3. Art. 180. Ter seu veículo imobilizado na via por falta de combustível.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+4. Art. 181 Inciso I. Estacionar o veículo nas esquinas e a menos de cinco metros do bordo do
+alinhamento da via transversal.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+5. Art. 181 Inciso IV. Estacionar o veículo em desacordo com as posições estabelecidas neste
+Código.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+6. Art. 181 Inciso IX. Estacionar o veículo onde houver guia de calçada (meio-ﬁo) rebaixada destinada
+à entrada ou saída de veículos.
+Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+7. Art. 181 Inciso VI. Estacionar o veículo junto ou sobre hidrantes de incêndio, registro de água ou
+tampas de poços de visita de galerias subterrâneas, desde que devidamente identiﬁcados, conforme
+especificação do CONTRAN.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+8. Art. 181 Inciso X. Estacionar o veículo impedindo a movimentação de outro veículo.
+Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+9. Art. 181 Inciso XIII. Estacionar o veículo onde houver sinalização horizontal delimitadora de ponto
+de embarque ou desembarque de passageiros de transporte coletivo ou, na inexistência desta
+sinalização, no intervalo compreendido entre dez metros antes e depois do marco do ponto.
+Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+10. Art. 181 Inciso XV. Estacionar o veículo na contramão de direção. Infração Média: 2 pontos
+Categorias aplicáveis: A, B, C, D, E
+11. Art. 181 Inciso XVIII. Estacionar o veículo em locais e horários proibidos especiﬁcamente pela
+sinalização (placa - Proibido Estacionar). Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D,
+E
+12. Art. 182 Inciso I. Parar o veículo nas esquinas e a menos de cinco metros do bordo do
+alinhamento da via transversal. Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+13. Art. 182 Inciso III. Parar o veículo afastado da guia da calçada (meio-fio) a mais de um metro.
+Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+14. Art. 182 Inciso IX. Parar o veículo na contramão de direção. Infração Média: 2 pontos Categorias
+aplicáveis: A, B, C, D, E
+15. Art. 182 Inciso VII. Parar o veículo na área de cruzamento de vias, prejudicando a circulação de
+veículos e pedestres. Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+16. Art. 182 Inciso VIII. Parar o veículo nos viadutos, pontes e túneis. Infração Média: 2 pontos
+Categorias aplicáveis: A, B, C, D, E
+17. Art. 182 Inciso X. Parar o veículo em local e horário proibidos especificamente pela sinalização
+(placa - Proibido Parar). Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+18. Art. 183. Parar o veículo sobre a faixa de pedestres na mudança de sinal luminoso. Infração
+Média: 2 pontos
+Categorias aplicáveis: A, B, C, D, E
+19. Art. 185 Inciso I. Quando o veículo estiver em movimento, deixar de conservá-lo na faixa a ele
+destinada pela sinalização de regulamentação, exceto em situações de emergência .
+Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+20. Art. 185 Inciso II. Quando o veículo estiver em movimento, deixar de conservá-lo nas faixas da
+direita, os veículos lentos e de maior porte. Infração Média: 2 pontos Categorias aplicáveis: A, B, C,
+D, E
+21. Art. 187 Inciso I. Transitar em locais e horários não permitidos pela regulamentação estabelecida
+pela autoridade competente para todos os tipos de veículos. Infração Média: 2 pontos Categorias
+aplicáveis: A, B, C, D, E
+22. Art. 188. Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito.Infração
+Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+23. Art. 197. Deixar de deslocar, com antecedência, o veículo para a faixa mais à esquerda ou mais à
+direita, dentro da respectiva mão de direção, quando for manobrar para um desses lados.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+24. Art. 198. Deixar de dar passagem pela esquerda, quando solicitado. Infração Média: 2 pontos
+Categorias aplicáveis: A, B, C, D, E
+25. Art. 199. Ultrapassar pela direita, salvo quando o veículo da frente estiver colocado na faixa
+apropriada e der sinal de que vai entrar à esquerda. Infração Média: 2 pontos Categorias aplicáveis:
+A, B, C, D, E
+26. Art. 201. Deixar de guardar a distância lateral de um metro e cinquenta centímetros ao passar ou
+ultrapassar bicicleta. Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+27. Art. 216. Entrar ou sair de áreas lindeiras sem estar adequadamente posicionado para ingresso
+na via e sem as precauções com a segurança de pedestres e de outros veículos Infração Média: 2
+pontos Categorias aplicáveis: A, B, C, D, E
+28. Art. 217. Entrar ou sair de ﬁla de veículos estacionados sem dar preferência de passagem a
+pedestres e a outros veículos Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+29. Art. 218 Inciso I. Transitar em velocidade superior à máxima permitida para o local, medida por
+instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias:
+quando a velocidade for superior à máxima em até 20% (vinte por cento). Infração Média: 2 pontos -
+Categorias aplicáveis: A, B, C, D, E
+30. Art. 219. Transitar com o veículo em velocidade inferior à metade da velocidade máxima
+estabelecida para a via, retardando ou obstruindo o trânsito, a menos que as condições de tráfego e
+meteorológicas não o permitam, salvo se estiver na faixa da direita.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+31. Art. 231 Inciso IX. Transitar com o veículo desligado ou desengrenado, em declive.
+Infração Média: 2 pontos - Categorias aplicáveis: A, B, C, D, E
+32. Art. 244 Inciso X. Conduzir motocicleta, motoneta e ciclo motor com a utilização de capacete de
+segurança sem viseira ou óculos de proteção ou com viseira ou óculos de proteção em desacordo
+com a regulamentação do CONTRAN.
+Infração Média: 2 pontos - Categorias aplicáveis: A
+33. Art. 244 Inciso XI Conduzir motocicleta, motoneta ou ciclomotor transportando passageiro com o
+capacete de segurança com a utilização de capacete de segurança sem viseira ou óculos de
+proteção ou com viseira ou óculos de proteção em desacordo com a regulamentação do CONTRAN.
+Infração Média: 2 pontos Categorias aplicáveis: A
+34. Art. 250 Inciso I, alínea a) durante a noite; Infração Média: 2 pontos Categorias aplicáveis: B, C, D,
+E
+35. Art. 250 Inciso I, alínea b). Quando o veículo estiver em movimento, deixar de manter acesa a luz
+baixa, de dia, em túneis e sob chuva, neblina ou cerração. Infração Média: 2 pontos - Categorias
+aplicáveis: B, C, D, E
+36. Art. 250 Inciso I. alínea c). Quando o veículo estiver em movimento, deixar de manter acesa a luz
+baixa, de dia, no caso de veículos de transporte coletivo de passageiros em circulação em faixas ou
+pistas a eles destinadas. Infração Média: 2 pontos Categorias aplicáveis: D
+37. Art. 250 Inciso I alínea d). Quando o veículo estiver em movimento, deixar de manter acesa a luz
+baixa, de dia, no caso de motocicletas, motonetas e ciclomotores. Infração Média: 2 pontos
+Categorias aplicáveis: A
+38. Art. 250 Inciso I. alínea e) de dia, em rodovias de pista simples situadas fora dos perímetros
+urbanos, no caso de veículos desprovidos de luzes de rodagem diurna.Infração Média: 2 pontos -
+Categorias aplicáveis: ACC, A, B, C, D e E.
+39. Art. 251 Inciso I - Utilizar o pisca-alerta, exceto em imobilizações ou situações de emergência
+Infração
+Média: 2 pontos Categorias aplicáveis :ACC, A, B, C, D e E.
+40. Art. 251, Inciso II - Utilizar as luzes baixa e alta de forma intermitente, exceto nas seguintes
+situações:
+a) a curtos intervalos, quando for conveniente advertir a outro condutor que se tem o propósito de
+ultrapassá-lo;
+b) em imobilizações ou situação de emergência, como advertência, utilizando pisca-alerta;
+c) quando a sinalização de regulamentação da via determinar o uso do pisca Infração Média: 2 pontos
+Categorias aplicáveis: ACC, A, B, C, D e E.
+41. Art. 252 Inciso I- Dirigir o veículo com o braço do lado de fora. Infração Média: 2 pontos Categorias
+aplicáveis: A, B, C, D, E
+42. Art. 252 Inciso II - Dirigir o veículo transportando pessoas, animais ou volume à sua esquerda ou
+entre os braços e pernas. Infração Média: 2 pontos Categorias aplicáveis :ACC, A, B, C, D e E.
+43. Art. 252 Inciso IV. Dirigir o veículo usando calçado que não se ﬁrme nos pés ou que comprometa
+a utilização dos pedais. Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+44. Art. 252 Inciso V. Dirigir o veículo com apenas uma das mãos, exceto quando deva fazer sinais
+regulamentares de braço, mudar a marcha do veículo, ou acionar equipamentos e acessórios do
+veículo. Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E
+45. Art. 252 Inciso VI. Dirigir o veículo utilizando-se de fones nos ouvidos conectados a aparelhagem
+sonora ou de telefone celular.
+Infração Média: 2 pontos Categorias aplicáveis: A, B, C, D, E.
+INFRAÇÕES LEVES - 1 PONTO
+1. Art. 169. Dirigir sem atenção ou sem os cuidados indispensáveis à segurança
+Infração Leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+2. Art. 181 Inciso II. Estacionar o veículo afastado da guia da calçada (meio-fio) de cinquenta
+centímetros a um metro.
+Infração Leve: 1 ponto Categorias aplicáveis: A, B, C, D, E
+3. Art. 181 Inciso VII. Estacionar o veículo nos acostamentos, salvo motivo de força maior.
+Infração Leve: 1 ponto Categorias aplicáveis: A, B, C, D, E.
+4. Art. 182 Inciso II. Parar o veículo afastado da guia da calçada (meio-fio) de cinquenta centímetros
+a um metro.
+Infração leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+5. Art. 182 Inciso IV. Parar o veículo em desacordo com as posições estabelecidas neste Código
+Infração leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+6. Art. 182 Inciso VI. Parar o veículo no passeio ou sobre faixa destinada a pedestres, nas ilhas,
+refúgios, canteiros centrais e divisores de pista de rolamento e marcas de canalização Infração
+Leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+7. Art. 184 Inciso I. Transitar com o veículo na faixa ou pista da direita, regulamentada como de
+circulação exclusiva para determinado tipo de veículo, exceto para acesso a imóveis lindeiros ou
+conversões à direita Infração Leve: 1 ponto
+Categorias aplicáveis: A, B, C, D, E
+8. Art. 205. Ultrapassar veículo em movimento que integre cortejo, préstito, desﬁle e formações
+militares, salvo com autorização da autoridade de trânsito ou de seus agentes
+Infração Leve: 1 ponto - Categorias aplicáveis: A, B, C, D, E
+9. Art. 227 Inciso I. Usar buzina em situação que não a de simples toque breve como advertência ao
+
+## MBEDV (CONTRAN/SENATRAN) - Fichas de procedimento
 regularidade do processo avaliativo.
 Com o encerramento formal da realização do exame, esgota-se a fase operacional
 da prova prática de direção veicular, iniciando-se, a partir de então, a etapa de
