@@ -28,6 +28,10 @@ function falar(t: string) {
   window.speechSynthesis.speak(u);
 }
 
+function capitalizar(t: string) {
+  return t ? t.charAt(0).toUpperCase() + t.slice(1) : t;
+}
+
 function terceiraLinha(resposta: string) {
   const blocos = resposta.split(/\n\s*---\s*\n/);
   return blocos
@@ -80,6 +84,7 @@ function Index() {
   const [gravando, setGravando] = useState(false);
   const [hist, setHist] = useState<Item[]>([]);
   const recRef = useRef<any>(null);
+  const accRef = useRef("");
 
   useEffect(() => {
     try { setHist(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch {}
@@ -97,13 +102,20 @@ function Index() {
     if (gravando) { recRef.current?.stop(); return; }
     const r = new SR();
     r.lang = "pt-BR"; r.continuous = true; r.interimResults = true;
-    const base = situacao ? situacao + " " : "";
+    accRef.current = situacao ? situacao.trimEnd() + " " : "";
     r.onresult = (e: any) => {
-      let t = "";
-      for (let i = 0; i < e.results.length; i++) t += e.results[i][0].transcript;
-      setSituacao(base + t);
+      let interim = "";
+      for (let i = e.resultIndex; i < e.results.length; i++) {
+        const t = e.results[i][0].transcript;
+        if (e.results[i].isFinal) accRef.current += t + " ";
+        else interim += t;
+      }
+      setSituacao(capitalizar(accRef.current + interim));
     };
-    r.onend = () => setGravando(false);
+    r.onend = () => {
+      setGravando(false);
+      if (accRef.current) setSituacao(capitalizar(accRef.current.trimEnd()));
+    };
     r.onerror = () => setGravando(false);
     recRef.current = r; r.start(); setGravando(true); setErro("");
   };
@@ -140,7 +152,7 @@ function Index() {
             rows={4}
             value={situacao}
             readOnly={modo === "audio" && gravando}
-            onChange={(e) => setSituacao(e.target.value)}
+            onChange={(e) => setSituacao(capitalizar(e.target.value))}
             placeholder={modo === "audio" ? "Toque em Gravar e fale a situação…" : "Ex.: Você deveria ter indicado a seta antes de parar o veículo."}
           />
           <div className="flex flex-wrap gap-2">
