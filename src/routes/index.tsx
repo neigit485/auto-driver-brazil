@@ -110,7 +110,7 @@ function Index() {
   }, []);
 
   const salvar = (h: Item[]) => {
-    const v = h.slice(0, 7);
+    const v = h.slice(0, 20);
     setHist(v);
     localStorage.setItem(KEY, JSON.stringify(v));
   };
@@ -199,7 +199,7 @@ function Index() {
 
         <section className="space-y-3">
           <div className="flex items-center justify-between">
-            <h2 className="subtitulo">Histórico <span className="text-muted-foreground text-sm">(últimas 7)</span></h2>
+            <h2 className="subtitulo">Histórico</h2>
             {hist.length > 0 && <button className="btn-ghost" onClick={() => salvar([])}>Apagar</button>}
           </div>
           {hist.length === 0 && <p className="text-muted-foreground text-sm">Nenhuma avaliação ainda.</p>}
