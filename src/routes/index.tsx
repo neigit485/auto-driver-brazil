@@ -32,6 +32,25 @@ function capitalizar(t: string) {
   return t ? t.charAt(0).toUpperCase() + t.slice(1) : t;
 }
 
+export function montarTranscricao(base: string, partes: string[]) {
+  let sessao = "";
+  for (const raw of partes) {
+    const p = raw.trim();
+    if (!p) continue;
+    const sLow = sessao.toLowerCase();
+    const pLow = p.toLowerCase();
+    if (!sessao || pLow.startsWith(sLow)) {
+      sessao = p;
+    } else if (sLow.endsWith(pLow)) {
+      continue;
+    } else {
+      sessao = `${sessao} ${p}`;
+    }
+  }
+  const combinado = [base.trim(), sessao].filter(Boolean).join(" ");
+  return capitalizar(combinado);
+}
+
 function terceiraLinha(resposta: string) {
   const blocos = resposta.split(/\n\s*---\s*\n/);
   return blocos
@@ -84,7 +103,7 @@ function Index() {
   const [gravando, setGravando] = useState(false);
   const [hist, setHist] = useState<Item[]>([]);
   const recRef = useRef<any>(null);
-  const accRef = useRef("");
+  const baseRef = useRef("");
 
   useEffect(() => {
     try { setHist(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch {}
@@ -102,20 +121,16 @@ function Index() {
     if (gravando) { recRef.current?.stop(); return; }
     const r = new SR();
     r.lang = "pt-BR"; r.continuous = true; r.interimResults = true;
-    accRef.current = situacao ? situacao.trimEnd() + " " : "";
+    baseRef.current = situacao.trim();
     r.onresult = (e: any) => {
-      let interim = "";
-      for (let i = e.resultIndex; i < e.results.length; i++) {
-        const t = e.results[i][0].transcript;
-        if (e.results[i].isFinal) accRef.current += t + " ";
-        else interim += t;
+      const partes: string[] = [];
+      for (let i = 0; i < e.results.length; i++) {
+        const t = e.results[i]?.[0]?.transcript;
+        if (typeof t === "string") partes.push(t);
       }
-      setSituacao(capitalizar(accRef.current + interim));
+      setSituacao(montarTranscricao(baseRef.current, partes));
     };
-    r.onend = () => {
-      setGravando(false);
-      if (accRef.current) setSituacao(capitalizar(accRef.current.trimEnd()));
-    };
+    r.onend = () => setGravando(false);
     r.onerror = () => setGravando(false);
     recRef.current = r; r.start(); setGravando(true); setErro("");
   };
